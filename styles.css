@@ -1,0 +1,18 @@
+ body
+{
+	font-family: sans-serif;
+
+	margin: 100px;
+}
+
+.divButton {
+    display: none;
+    margin: 25px;
+}
+
+.row
+{
+	height: 30px;
+	margin: 25px;
+
+}
